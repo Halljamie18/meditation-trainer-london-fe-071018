@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color: #41417a;
+  border: 2px;
+}
+
+#leftSide {
+  width: 50%;
+}
+
+table {
+  width: 90%;
+}
+
+th {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+button {
+  border-radius: 10px;
+  width: 90%;
+  margin: 0 auto;
+}
